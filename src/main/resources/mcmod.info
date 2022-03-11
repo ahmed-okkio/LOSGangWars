@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gangwars",
+  "name": "LOS Gang Wars",
+  "description": "A mod for league of sudan gang wars",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["thegeeko", "okkio", "chopstix"],
+  "credits": "The Forge and FML guys",
+  "logoFile": "los_gang.txt",
+  "screenshots": [],
+  "dependencies": []
+}
+]
